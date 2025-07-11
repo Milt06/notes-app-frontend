@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:5000';
+const API_BASE = 'https://notes-app-backend-zo0v.onrender.com/';
 const notesList = document.getElementById('notesList');
 const noteInput = document.getElementById('noteInput');
 
